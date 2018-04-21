@@ -1,4 +1,8 @@
 # connect_4_using_ethereum
+  in game acion :D
+  
+  ![inGameAction](inGameAction.png "inGameAction")
+  
   this game has very simple rules , you have two types of scores : <br>
   1-temp score <br>
   2-final score <br>
