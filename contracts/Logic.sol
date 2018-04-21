@@ -195,6 +195,13 @@ contract Logic {
 		    state[playingWithWho[msg.sender]]=0;
 		    scoringBegining[msg.sender] += 5;
 		    
+		    for(uint i1=0;i1<6;i1++){
+		        for(uint j1=0;j1<6;j1++){
+		            a[i1][j1]=0;
+		            b[i1][j1]=0;
+		        }
+		    }
+		    
 		}
 		
 		stateChanged(msg.sender);
@@ -242,6 +249,12 @@ contract Logic {
 		    state[msg.sender]=0;
 		    state[playingWithWho[msg.sender]]=0;
 		    scoringBegining[msg.sender] += 5;
+		    for(uint i=0;i<6;i++){
+		        for(uint j=0;j<6;j++){
+		            a[i][j]=0;
+		            b[i][j]=0;
+		        }
+		    }
 		    
 		}
 		
