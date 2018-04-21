@@ -7,6 +7,14 @@
   in every game session you at each step you can choose a column and the lowest point will be yours,<br>
   although you can spend 10 points of your temp score and say which x (row) you want your point be<br>
   also the person who starts the game should make the first move , and you should always wait for other player to make theire move <br>
+  
+  ipfs:<br>
+    /ipfs/QmSLgbNdaTEBTpfJuR58Pe3MSDpdKcHxMshMCekxDNZ9ft
+    if you don't have ipfs :
+    https://gateway.ipfs.io/ipfs/QmSLgbNdaTEBTpfJuR58Pe3MSDpdKcHxMshMCekxDNZ9ft/
+  
+  
+  
   <b>
   <br>
   how it works :<br>
